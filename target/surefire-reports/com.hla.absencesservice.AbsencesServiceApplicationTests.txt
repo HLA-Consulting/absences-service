@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.hla.absencesservice.AbsencesServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.102 s - in com.hla.absencesservice.AbsencesServiceApplicationTests
